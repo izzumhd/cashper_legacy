@@ -10,6 +10,8 @@
 
 LOLOS PENDANAAN LESGOOOOOOH
 
+<img src="documentation/img/mims1.jpeg" alt="" width="250">
+
 ## Getting Started
 
 ### Dependencies
