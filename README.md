@@ -1,0 +1,61 @@
+# CASHPER
+### *Cash Protection and Electronic Monitoring*
+### Sistem Proteksi dan Deteksi Nominal Uang Berbasis IoT dan Monitoring Web.
+
+---
+
+## Description
+
+LOLOS PENDANAAN LESGOOOOOOH
+
+## Getting Started
+
+### Dependencies
+
+* Available for Android, iOS, Linux, MacOS, Windows 10 or newer, etc.. the thing is that you have internet ng
+
+### Installing
+
+* js click the download button ng
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+yo ndak tau kok tanya saya
+```
+
+## Help
+
+advise for common problems or issues.
+```
+adalah pokoknya
+```
+
+## Authors
+
+Contributors names and contact info
+* [Izzuddin M Hakim](https://www.instagram.com/izzu.mhd/)
+* Ihsan Abdillah
+* Mahardika Luqman Ghalib
+* Lulu Aulia Rahmadani
+* Devona Bunga Madania
+
+## Version History
+
+* 0.2
+    * sayur lodeh
+    * sambel balado
+* 0.1
+    * Initial Release
+
+## License
+
+This project is does not have licence, only for educational purpouse
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [Nalika](https://github.com/puikinsh/nalika)
+* [ChatJBT](https://chatgpt.com/)
