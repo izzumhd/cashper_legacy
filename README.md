@@ -1,3 +1,5 @@
+<img src="Cashper Dashboard/img/logo/CAELOG2.png" alt="" width="250">
+
 # CASHPER
 ### *Cash Protection and Electronic Monitoring*
 ### Sistem Proteksi dan Deteksi Nominal Uang Berbasis IoT dan Monitoring Web.
