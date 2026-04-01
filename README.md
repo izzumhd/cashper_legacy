@@ -1,4 +1,4 @@
-<img src="Cashper Dashboard/img/logo/CAELOG2.png" alt="" width="250">
+<img src="documentation/img/CAELOG.png" alt="" width="120">
 
 # CASHPER
 ### *Cash Protection and Electronic Monitoring*
