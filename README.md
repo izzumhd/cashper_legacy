@@ -10,7 +10,7 @@
 
 LOLOS PENDANAAN LESGOOOOOOH
 
-<img src="documentation/img/mims1.jpeg" alt="" width="300">
+<img src="documentation/img/mims2.jpeg" alt="" width="300">
 
 ## Getting Started
 
