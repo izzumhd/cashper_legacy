@@ -23,7 +23,7 @@ LOLOS PENDANAAN LESGOOOOOOH
 * How to run the program
 * Step-by-step bullets
 ```
-yo ndak tau kok tanya saya
+yntkts
 ```
 
 ## Help
