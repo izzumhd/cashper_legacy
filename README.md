@@ -16,11 +16,11 @@ LOLOS PENDANAAN LESGOOOOOOH
 
 ### Dependencies
 
-* Available for Android, iOS, Linux, MacOS, Windows 10 or newer, etc.. the thing is that you have internet ng
+* Available for Android, iOS, Linux, MacOS, Windows 10 or newer, etc.. the thing is that you have internet nga
 
 ### Installing
 
-* js click the download button ng
+* js click the download button nga
 
 ### Executing program
 
@@ -63,3 +63,5 @@ This project is does not have licence, only for educational purpouse
 Inspiration, code snippets, etc.
 * [Nalika](https://github.com/puikinsh/nalika)
 * [ChatJBT](https://chatgpt.com/)
+* [Mba Gemini](https://gemini.google.com/)
+* [King Claude](https://claude.ai/)
